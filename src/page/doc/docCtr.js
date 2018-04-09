@@ -280,7 +280,9 @@ export default {
           break;
         case 2:
           return "管理员";
-        break;
+        case 4:
+          return "外部人员";
+          break;
       }
     },
     /**

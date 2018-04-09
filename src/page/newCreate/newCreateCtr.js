@@ -211,6 +211,8 @@ export default {
           break;
         case 2:
           return "管理员";
+        case 4:
+          return "外部人员";
           break;
       }
     },
